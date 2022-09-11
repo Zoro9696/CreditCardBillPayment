@@ -1,0 +1,133 @@
+2022-09-11 19:08:58 - Starting CreditCardBillPaymentSystemApplication using Java 17.0.1 on LAPTOP-6R2BOPFR with PID 2664 (C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM\target\classes started by Ak96 in C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM)
+2022-09-11 19:08:58 - No active profile set, falling back to default profiles: default
+2022-09-11 19:09:07 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-11 19:09:07 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-11 19:09:23 - Starting CreditCardBillPaymentSystemApplication using Java 17.0.1 on LAPTOP-6R2BOPFR with PID 11572 (C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM\target\classes started by Ak96 in C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM)
+2022-09-11 19:09:23 - No active profile set, falling back to default profiles: default
+2022-09-11 19:09:27 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-11 19:09:27 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-11 19:10:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-11 19:10:04 - Finished Spring Data repository scanning in 1455 ms. Found 7 JPA repository interfaces.
+2022-09-11 19:10:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-11 19:10:06 - Finished Spring Data repository scanning in 1357 ms. Found 7 JPA repository interfaces.
+2022-09-11 19:10:21 - Tomcat initialized with port(s): 1234 (http)
+2022-09-11 19:10:21 - Starting service [Tomcat]
+2022-09-11 19:10:21 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-09-11 19:10:23 - Tomcat initialized with port(s): 1234 (http)
+2022-09-11 19:10:23 - Starting service [Tomcat]
+2022-09-11 19:10:23 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-09-11 19:13:35 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-11 19:13:35 - Initializing Spring embedded WebApplicationContext
+2022-09-11 19:13:35 - Root WebApplicationContext: initialization completed in 247947 ms
+2022-09-11 19:13:39 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-11 19:13:39 - Initializing Spring embedded WebApplicationContext
+2022-09-11 19:13:39 - Root WebApplicationContext: initialization completed in 267055 ms
+2022-09-11 19:13:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-11 19:13:44 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-09-11 19:13:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-11 19:13:53 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-09-11 19:13:53 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-11 19:13:55 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-11 19:13:56 - HikariPool-1 - Starting...
+2022-09-11 19:13:59 - HikariPool-1 - Starting...
+2022-09-11 19:14:57 - HikariPool-1 - Start completed.
+2022-09-11 19:14:57 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-11 19:14:58 - HikariPool-1 - Start completed.
+2022-09-11 19:14:58 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-11 19:15:02 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-11 19:15:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:15:06 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-11 19:15:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:15:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-11 19:15:53 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-11 19:15:58 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-11 19:15:59 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-11 19:16:07 - LiveReload server is running on port 35729
+2022-09-11 19:16:11 - Unable to start LiveReload server
+2022-09-11 19:16:18 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 1234 is already in use
+2022-09-11 19:16:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:16:18 - HikariPool-1 - Shutdown initiated...
+2022-09-11 19:16:29 - HikariPool-1 - Shutdown completed.
+2022-09-11 19:16:29 - Stopping service [Tomcat]
+2022-09-11 19:16:29 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-11 19:16:31 - Tomcat started on port(s): 1234 (http) with context path ''
+2022-09-11 19:16:31 - Context refreshed
+2022-09-11 19:16:31 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 1234 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 1234 or configure this application to listen on another port.
+
+2022-09-11 19:16:31 - Found 1 custom documentation plugin(s)
+2022-09-11 19:16:31 - Scanning for api listing references
+2022-09-11 19:16:39 - Started CreditCardBillPaymentSystemApplication in 500.1 seconds (JVM running for 752.855)
+2022-09-11 19:18:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:18:58 - HikariPool-1 - Shutdown initiated...
+2022-09-11 19:18:58 - HikariPool-1 - Shutdown completed.
+2022-09-11 19:18:59 - Starting CreditCardBillPaymentSystemApplication using Java 17.0.1 on LAPTOP-6R2BOPFR with PID 2664 (C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM\target\classes started by Ak96 in C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM)
+2022-09-11 19:18:59 - No active profile set, falling back to default profiles: default
+2022-09-11 19:19:01 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-11 19:19:02 - Finished Spring Data repository scanning in 268 ms. Found 7 JPA repository interfaces.
+2022-09-11 19:19:02 - Tomcat initialized with port(s): 1235 (http)
+2022-09-11 19:19:02 - Starting service [Tomcat]
+2022-09-11 19:19:02 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-09-11 19:19:02 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-11 19:19:02 - Initializing Spring embedded WebApplicationContext
+2022-09-11 19:19:02 - Root WebApplicationContext: initialization completed in 3704 ms
+2022-09-11 19:19:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-11 19:19:03 - HikariPool-2 - Starting...
+2022-09-11 19:19:04 - HikariPool-2 - Start completed.
+2022-09-11 19:19:04 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-11 19:19:06 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-11 19:19:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:19:10 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-11 19:19:10 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-11 19:19:10 - LiveReload server is running on port 35729
+2022-09-11 19:19:10 - Tomcat started on port(s): 1235 (http) with context path ''
+2022-09-11 19:19:10 - Context refreshed
+2022-09-11 19:19:10 - Found 1 custom documentation plugin(s)
+2022-09-11 19:19:10 - Scanning for api listing references
+2022-09-11 19:19:11 - Started CreditCardBillPaymentSystemApplication in 12.804 seconds (JVM running for 905.475)
+2022-09-11 19:19:11 - Condition evaluation unchanged
+2022-09-11 19:19:12 - Application shutdown requested.
+2022-09-11 19:19:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:19:13 - HikariPool-2 - Shutdown initiated...
+2022-09-11 19:19:13 - HikariPool-2 - Shutdown completed.
+2022-09-11 19:20:07 - Starting CreditCardBillPaymentSystemApplication using Java 17.0.1 on LAPTOP-6R2BOPFR with PID 9520 (C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM\target\classes started by Ak96 in C:\Users\Ak96\OneDrive\Desktop\Capgemini Training\Training Material\Group 5 Projec1t\Final Project\CREDIT-CARD-BILL-PAYMENT-SYSTEM)
+2022-09-11 19:20:07 - No active profile set, falling back to default profiles: default
+2022-09-11 19:20:07 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-11 19:20:07 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-11 19:20:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-11 19:20:09 - Finished Spring Data repository scanning in 171 ms. Found 7 JPA repository interfaces.
+2022-09-11 19:20:11 - Tomcat initialized with port(s): 1235 (http)
+2022-09-11 19:20:11 - Starting service [Tomcat]
+2022-09-11 19:20:11 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-09-11 19:20:11 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-09-11 19:20:11 - Initializing Spring embedded WebApplicationContext
+2022-09-11 19:20:11 - Root WebApplicationContext: initialization completed in 4328 ms
+2022-09-11 19:20:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-11 19:20:12 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-09-11 19:20:12 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-11 19:20:12 - HikariPool-1 - Starting...
+2022-09-11 19:20:13 - HikariPool-1 - Start completed.
+2022-09-11 19:20:13 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-11 19:20:15 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-11 19:20:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-11 19:20:17 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-11 19:20:17 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-11 19:20:17 - LiveReload server is running on port 35729
+2022-09-11 19:20:18 - Tomcat started on port(s): 1235 (http) with context path ''
+2022-09-11 19:20:18 - Context refreshed
+2022-09-11 19:20:18 - Found 1 custom documentation plugin(s)
+2022-09-11 19:20:18 - Scanning for api listing references
+2022-09-11 19:20:19 - Started CreditCardBillPaymentSystemApplication in 12.436 seconds (JVM running for 14.477)
